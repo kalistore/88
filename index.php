@@ -60,10 +60,10 @@
 </div>
 <div class="info-apps">
 <h4 style="color: #eb9316;" class="title-apps"> scothman </h4>
-<p class="info-azozz">سناب شات عثمان  </p>
+<p style="color: #eb9316;" class="info-azozz">سناب شات عثمان  </p>
 </div>
 <div class="azozz-zee">
-<p class="v-azozz "> 10.19.5 </p>
+<p style="color: #eb9316;" class="v-azozz "> 10.19.5 </p>
 <a class="azozz" href="" role="button" data-toggle="modal" data-target="#scothman">تثبيت</a>
   </div>      
 </div>
